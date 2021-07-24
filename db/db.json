@@ -1,14 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "id": "c407a0a2-68ce-4add-a4f8-c0f6286e67d6",
+        "title": "Test Note1",
+        "text": "This is the no 1 test note"
     },
     {
-        "title": "sdsdsdsd",
-        "text": "sdsd"
-    },
-    {
-        "title": "fgfgfgfgfg",
-        "text": "dsdddd"
+        "id": "112217e4-cf5f-4ed2-b68f-c8f87dcab2b2",
+        "title": "Test note 2",
+        "text": "This is my number 2 test note\n"
     }
 ]
