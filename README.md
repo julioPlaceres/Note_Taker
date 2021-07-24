@@ -12,6 +12,7 @@ To install dependencies, run the following:
 ```npm i express & npm i uuid```
 ### Usage:
 Feel free to clone it down and use it, or deploy it from the live url
+[Live URL](https://fast-dawn-11595.herokuapp.com/)
 ![Main menu App View](./public/assets/images/main-image.PNG)
 ![Notes App View](./public/assets/images/notes.PNG)
 
